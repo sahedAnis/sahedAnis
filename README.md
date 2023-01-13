@@ -12,4 +12,4 @@
 
 🧠 **Currently learning:** [Kubernetes ☸](https://kubernetes.io/), [Docker 🐳](https://www.docker.com/), [Flutter 📱](https://flutter.dev/)
 
-💡 **Interested in:** `Building softwares 🛠` `IT project management 🚀` `DevOps 📦`
+💡 **Interested in:** `Building softwares 🛠` `Blockchain 🚀` `DevOps 📦`
