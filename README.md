@@ -13,3 +13,32 @@
 🧠 **Currently learning:** [Kubernetes ☸](https://kubernetes.io/), [Docker 🐳](https://www.docker.com/), [Flutter 📱](https://flutter.dev/)
 
 💡 **Interested in:** `Building softwares 🛠` `Blockchain 🚀` `DevOps 📦`
+
+## My Skill Set 🔮
+
+<table>
+    <thead>
+        <tr>
+            <th>Development</th>
+            <th>Ops</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+               <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+               <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white" />
+               <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+               <img src="https://img.shields.io/badge/NestJS-000?style=for-the-badge&logo=nestjs&logoColor=F00" />
+               <img src="https://img.shields.io/badge/Spring%20Boot-67AA3C?style=for-the-badge&logo=springboot&logoColor=white" />
+               <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+               <img src="https://img.shields.io/badge/Python-F7F7F7?style=for-the-badge&logo=python&logoColor=3776AB" />
+               <img src="https://img.shields.io/badge/Php-232531?style=for-the-badge&logo=php&logoColor=white"/>
+               <img src="https://img.shields.io/badge/Java-5382a1?style=for-the-badge&logo=java&logoColor=white"/>
+            </td>
+            <td> 
+                <p>Coming soon...</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
