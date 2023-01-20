@@ -33,11 +33,11 @@
                <img src="https://img.shields.io/badge/Spring%20Boot-67AA3C?style=for-the-badge&logo=springboot&logoColor=white" />
                <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
                <img src="https://img.shields.io/badge/Python-F7F7F7?style=for-the-badge&logo=python&logoColor=3776AB" />
-               <img src="https://img.shields.io/badge/Php-232531?style=for-the-badge&logo=php&logoColor=white"/>
-               <img src="https://img.shields.io/badge/Java-5382a1?style=for-the-badge&logo=java&logoColor=white"/>
+               <img src="https://img.shields.io/badge/Php-8993BE?style=for-the-badge&logo=php&logoColor=white"/>
+               <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white"/>
             </td>
             <td> 
-                <p>Coming soon...</p>
+                <h6>Coming soon...</h6>
             </td>
         </tr>
     </tbody>
