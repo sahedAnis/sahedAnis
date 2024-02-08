@@ -37,7 +37,9 @@
                <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white"/>
             </td>
             <td> 
-                <h6>Coming soon...</h6>
+                <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white&color=blue"/>
+                <img src="https://img.shields.io/badge/kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white&color=green"/>
+                <img alt="Static Badge" src="https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=github-actions&logoColor=blue&color=gray">
             </td>
         </tr>
     </tbody>
